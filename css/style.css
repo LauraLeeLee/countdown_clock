@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+  
+input {
+width: 200px;
+font-style: italic;
+color: grey;
+margin-top: 50px;
+}
+
+.response-1 {
+color: blue;
+font-style: bold;
+}
+
+.box {
+width: 80%;
+background-color: red;
+margin: 0 auto 0;
+display: inline-block;
+    border: 20px double #1A5C15;
+}
+
+.santa {
+margin-top: 40px;
+}
+
+.time-boxes {
+display: inline-block;
+color: #fff;
+width: 50px;
+background-color: #2A7A05;
+border: 5px double #1A5C15;
+padding: 10px;
+margin-right: 5px;
+}
+
+span {
+display: inline-block;
+width: 15px;
+height: 15px;
+padding: 10px;
+background-color: #25AB1A;
+border: 5px double #1A5C15;
+}
+
+.smalltext {
+display: inline-block;
+margin-top: 10px;
+margin-bottom: 5px;
+}
